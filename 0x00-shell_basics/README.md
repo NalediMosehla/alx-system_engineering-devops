@@ -1,3 +1,4 @@
+
 0. Script that prints the absolute path name of the current working directory
 1. Display the contents list of your current directory
 2. Script that changes the working directory to the user’s home directory.
@@ -15,3 +16,4 @@
 13. A symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory
 14. A script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files 
     that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+    You can consider that all HTML files have the extension .html
